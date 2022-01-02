@@ -1,0 +1,5 @@
+nsteps		2000
+dt		0.002
+file_input	input.xyz
+file_log	output_seq.log
+period_log	10
